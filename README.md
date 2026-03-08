@@ -10,10 +10,6 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/JhonTropinha/s/fhzqVrajut)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://reddit.com/jhontropinha)
 
-![Jhontropinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhontropinha&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhontropinha)](https://github.com/Jhontropinha/github-readme-stats)
-
 ## Aprendendo atualmente
 <div style="display:inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
