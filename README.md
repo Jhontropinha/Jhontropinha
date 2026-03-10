@@ -1,4 +1,4 @@
-### Hi I'm Jonatha Maicon (JhonTropinha) 👋
+### Hi! I'm Jonatha Maicon (JhonTropinha) 👋
 
 ## How to contact me
 
