@@ -15,3 +15,14 @@
 <div style="display:inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
+
+## 💬 Phrases That Left a Mark on Me
+
+> **"You will own nothing and you will not be happy"**
+> — Renato Impera | [Geração Z - Condenados ao Fracasso](https://youtu.be/NIsosUQlZqw?si=Zu_3Z9-SR7Me_uRA)
+
+> **"Privacy is our right"**
+> — Pavel Durov *(Founder & CEO of Telegram)*
+
+
+
