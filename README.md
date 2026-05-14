@@ -25,6 +25,6 @@
 > — Pavel Durov *(Founder & CEO of Telegram)*
 
 > **"Love is poison love is pain
-> - XXXTentacion | [describing what LOVE IS! Raw Thoughts] (https://youtu.be/AIqYEKywb8Y?si=TYh66Mca-0y-Rcsy)
+> - XXXTentacion | [describing what LOVE IS! Raw Thoughts](https://youtu.be/AIqYEKywb8Y?si=TYh66Mca-0y-Rcsy)
 
 
