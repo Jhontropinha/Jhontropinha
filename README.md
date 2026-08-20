@@ -19,9 +19,10 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+## AI I Use to Learning & Build Projects
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff)](#)
 
-[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](#)
 
 ## 💬 Phrases That Left a Mark on Me
 
