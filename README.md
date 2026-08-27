@@ -13,7 +13,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558398066433)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatha-maicon-54a588429?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://Dev.to/jhontropinha)
-
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/810299399543586848)
 ## Currently learning
 <div style="display:inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -22,6 +22,7 @@
 ## AI I Use to Learning & Build Projects
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff)](https://claude.com)
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
+[![Lovable](https://img.shields.io/badge/Lovable-FF6154?style=for-the-badge&logo=lovable&logoColor=white)](https://lovable.dev/@jmaicon)
 
 ## 💬 Phrases That Left a Mark on Me
 
