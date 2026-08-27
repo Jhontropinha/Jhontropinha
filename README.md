@@ -24,12 +24,12 @@ Languages
 
 Areas
 
-• 🤖 Artificial Intelligence
-• 🧠 Machine Learning
-• 💻 Software Development
-• ⚙️ Automation
-• 🌐 Web Development
-• 🔌 APIs and System Integration
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 💻 Software Development
+* ⚙️ Automation
+* 🌐 Web Development
+*  🔌 APIs and System Integration
 
  Goals
 
