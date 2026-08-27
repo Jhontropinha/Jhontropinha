@@ -25,11 +25,5 @@
 
 ## 💬 Phrases That Left a Mark on Me
 
-> **"You will own nothing and you will not be happy"**
-> — Renato Impera | [Geração Z - Condenados ao Fracasso](https://youtu.be/NIsosUQlZqw?si=Zu_3Z9-SR7Me_uRA)
-
 > **"Privacy is our right"**
 > — Pavel Durov *(Founder & CEO of Telegram)*
-
-> **"Love is poison, love is pain"**
-> — XXXTentacion | [describing what LOVE IS! Raw Thoughts](https://youtu.be/AIqYEKywb8Y?si=TYh66Mca-0y-Rcsy)
