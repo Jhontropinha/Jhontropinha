@@ -2,10 +2,8 @@
 
 ## About Me
 
-I’m a Computer Science student and technology enthusiast passionate about programming, software development, and especially the potential of Artificial Intelligence to turn ideas into real-world projects.
-
-I’m currently deepening my knowledge of Python, software development, and AI, focusing not only on using artificial intelligence tools, but also on understanding, testing, improving, and transforming AI-generated code into functional solutions.
-
+Sou estudante de Ciência da Computação e entusiasta de tecnologia, apaixonado por tecnologia, programação e principalmente pelo potencial da Inteligência Artificial para transformar ideias em projetos reais.
+Atualmente, estou aprofundando meus conhecimentos em Python, desenvolvimento de software e IA, buscando não apenas utilizar ferramentas de inteligência artificial, mas também entender o código que elas geram, modificá-lo, testá-lo e transformá-lo em soluções funcionais.
 * 🎓 Computer Science student
 * 🐍 Currently learning and building projects with Python
 * 🤖 Interested in Artificial Intelligence & Machine Learning
@@ -31,23 +29,24 @@ Areas
 * 🌐 Web Development
 *  🔌 APIs and System Integration
 
- Goals
+  Objetivos
 
-My main goal is to continuously grow as a developer and build a career focused on technology, programming, and Artificial Intelligence.
+Meu principal objetivo é evoluir constantemente como desenvolvedor e construir uma carreira voltada para tecnologia, programação e Inteligência Artificial.
 
-Right now, I’m focused on learning, experimenting, and building projects that allow me to turn knowledge into practice.
+Atualmente, estou focado em aprender, experimentar e construir projetos que me permitam transformar conhecimento em prática.
 
-> 💡 **I believe the best way to learn programming is by building things.**
+> 💡 **Acredito que a melhor maneira de aprender programação é construindo coisas.**
 
-📌 This GitHub
 
-Here you will find projects, experiments, studies, and applications that are part of my journey in programming.
+📌 Este GitHub
 
-Some projects may be under development, while others may be experimental — but all of them are part of the process of learning, testing, and improving.
+Aqui você encontrará projetos, experimentos, estudos e aplicações que fazem parte da minha jornada na programação.
 
-🌎 Let’s build the future with code.
+Alguns projetos podem estar em desenvolvimento, enquanto outros podem ser experimentais — mas todos fazem parte do processo de aprender, testar e melhorar.
 
-📫 Feel free to explore my repositories and follow my journey.
+🌎 Vamos construir o futuro com código.
+
+📫 Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução.
 
 ## How to contact me
 
