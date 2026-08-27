@@ -1,5 +1,54 @@
 ### Hi! I'm Jonatha Maicon (JhonTropinha) 👋
 
+## About Me
+
+I’m a Computer Science student and technology enthusiast passionate about programming, software development, and especially the potential of Artificial Intelligence to turn ideas into real-world projects.
+
+I’m currently deepening my knowledge of Python, software development, and AI, focusing not only on using artificial intelligence tools, but also on understanding, testing, improving, and transforming AI-generated code into functional solutions.
+
+* 🎓 Computer Science student
+* 🐍 Currently learning and building projects with Python
+* 🤖 Interested in Artificial Intelligence & Machine Learning
+* 💻 Exploring software development and automation
+* 🧠 Learning how to turn ideas and prompts into functional applications
+* 🔧 I enjoy experimenting, testing, debugging, and improving projects
+* 🌐 Using GitHub to document my progress and share my projects
+
+🛠️ Technologies and Areas of Interest
+
+Languages
+
+• Python
+• JavaScript / TypeScript
+• HTML & CSS
+
+Areas
+
+• 🤖 Artificial Intelligence
+• 🧠 Machine Learning
+• 💻 Software Development
+• ⚙️ Automation
+• 🌐 Web Development
+• 🔌 APIs and System Integration
+
+ Goals
+
+My main goal is to continuously grow as a developer and build a career focused on technology, programming, and Artificial Intelligence.
+
+Right now, I’m focused on learning, experimenting, and building projects that allow me to turn knowledge into practice.
+
+> 💡 **I believe the best way to learn programming is by building things.**
+
+📌 This GitHub
+
+Here you will find projects, experiments, studies, and applications that are part of my journey in programming.
+
+Some projects may be under development, while others may be experimental — but all of them are part of the process of learning, testing, and improving.
+
+🌎 Let’s build the future with code.
+
+📫 Feel free to explore my repositories and follow my journey.
+
 ## How to contact me
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JhonPinx_)
