@@ -24,7 +24,7 @@
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff)](https://claude.com)
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
 [![Lovable](https://img.shields.io/badge/Lovable-FF6154?style=for-the-badge&logo=sparkles&logoColor=white)](https://lovable.dev/@jmaicon)
-[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](https://cursor.com)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com)
 
 ## 💬 Phrases That Left a Mark on Me
 
