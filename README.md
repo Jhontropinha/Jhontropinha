@@ -13,12 +13,9 @@ Atualmente, estou aprofundando meus conhecimentos em Python, desenvolvimento de 
 - 🔧 I enjoy experimenting, testing, debugging, and improving projects
 - 🌐 Using GitHub to document my progress and share my projects
 
-🛠️ Technologies and Areas of Interest
 
-## Languages
-[![Python](https://img.shields.io/badge/Python-4E4AE0?style=for-the-badge&logo=python&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-FFC94A?style=for-the-badge&logo=javascript&logoColor=black)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-E0218A?style=for-the-badge&logo=typescript&logoColor=white)](#) [![HTML5](https://img.shields.io/badge/HTML5-FF7B3D?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS3](https://img.shields.io/badge/CSS3-3B0764?style=for-the-badge&logo=css3&logoColor=white)](#)
 
-## Areas
+## Areas of Interest
 [![AI](https://img.shields.io/badge/Artificial%20Intelligence-3B0764?style=for-the-badge)](#) [![ML](https://img.shields.io/badge/Machine%20Learning-E0218A?style=for-the-badge)](#) [![Software Development](https://img.shields.io/badge/Software%20Development-4E4AE0?style=for-the-badge)](#) [![Automation](https://img.shields.io/badge/Automation-FF7B3D?style=for-the-badge)](#) [![Web Development](https://img.shields.io/badge/Web%20Development-FFC94A?style=for-the-badge&logoColor=black)](#) [![APIs](https://img.shields.io/badge/APIs%20%26%20System%20Integration-3B0764?style=for-the-badge)](#)
 
 Objetivos
