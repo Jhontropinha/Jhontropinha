@@ -1,4 +1,4 @@
-![Banner JhonTropinha](./assets/JhonTropinha_GitHub_Banner.png)
+[![Banner JhonTropinha](./assets/JhonTropinha_GitHub_Banner.png)](https://github.com/Jhontropinha)
 
 ### Hi! I'm Jonatha Maicon (JhonTropinha) 👋
 
