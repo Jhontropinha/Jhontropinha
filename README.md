@@ -1,3 +1,5 @@
+![Banner JhonTropinha](./assets/JhonTropinha_GitHub_Banner.png)
+
 ### Hi! I'm Jonatha Maicon (JhonTropinha) 👋
 
 ## About Me
